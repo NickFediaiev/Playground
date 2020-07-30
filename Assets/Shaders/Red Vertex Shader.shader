@@ -1,4 +1,4 @@
-﻿Shader "Custom/Main Shader"
+﻿Shader "Custom/Red Vertex Shader"
 {
     Properties
     {
